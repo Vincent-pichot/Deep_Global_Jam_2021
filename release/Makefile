@@ -51,7 +51,7 @@ OBJ		=	$(SRC:.c=.o)
 
 RM		=	rm -f
 
-NAME		=	escape
+NAME		=	Deep
 
 CPPFLAGS	=	-I ./include
 

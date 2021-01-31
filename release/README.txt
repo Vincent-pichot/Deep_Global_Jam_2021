@@ -1,0 +1,2 @@
+This game is made in CSMFL. It's a C library that you have to install.
+For launch this game, you must compile with our makefile to have a "Deep" executable. After that use the next command "./Deep map/map"
